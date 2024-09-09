@@ -1,2 +1,2 @@
-# Projeto-Integrador-II
-Neste projeto, estamos criando uma plataforma onde os usuários podem apostar em eventos futuros como resultados de jogos esportivos, eleições ou até mesmo eventos inesperados, como a erupção do vulcão Etna. Os participantes podem tanto lançar novos eventos quanto fazer suas apostas. A plataforma cuida automaticamente do controle financeiro, garantindo uma experiência realista e sem complicações.
+#Integrative Project - 2st Semester PUC Campinas
+In this project, we are creating a platform where users can bet on future events such as the results of sports matches, elections or even unexpected events, such as the eruption of Mount Etna. Participants can both launch new events and place their bets. The platform automatically takes care of financial control, ensuring a realistic and hassle-free experience.
