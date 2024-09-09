@@ -1,2 +1,2 @@
 # Integrative Project - 2st Semester PUC Campinas
-In this project, we are creating a platform where users can bet on future events such as the results of sports matches, elections or even unexpected events, such as the eruption of Mount Etna. Participants can both launch new events and place their bets. The platform automatically takes care of financial control, ensuring a realistic and hassle-free experience.
+In this project, we are creating a platform where users can bet on future events such as the results of sports matches, elections or even unexpected events, such as the eruption of Mount. Participants can both launch new events and place their bets. The platform automatically takes care of financial control, ensuring a realistic and hassle-free experience.
