@@ -1,2 +1,2 @@
 # Projeto-Integrador-II
-O Projeto Integrador II para o 2° Semestre da PUC Campinas envolve o desenvolvimento de uma inovadora plataforma de apostas.
+Neste projeto, estamos criando uma plataforma onde os usuários podem apostar em eventos futuros como resultados de jogos esportivos, eleições ou até mesmo eventos inesperados, como a erupção do vulcão Etna. Os participantes podem tanto lançar novos eventos quanto fazer suas apostas. A plataforma cuida automaticamente do controle financeiro, garantindo uma experiência realista e sem complicações.
